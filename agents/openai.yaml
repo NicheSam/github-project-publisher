@@ -1,6 +1,6 @@
 interface:
   display_name: "GitHub Project Publisher"
-  short_description: "Prepare clean project copies, READMEs, Git repos, and GitHub pushes."
-  default_prompt: "Use $github-project-publisher to prepare selected local projects for GitHub, write public bilingual READMEs, and push them safely."
+  short_description: "Publish local projects to GitHub"
+  default_prompt: "Use $github-project-publisher to prepare local projects for GitHub, write bilingual READMEs, and push them safely."
 policy:
   allow_implicit_invocation: true
